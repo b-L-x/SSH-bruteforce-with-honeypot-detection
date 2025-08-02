@@ -1,0 +1,5 @@
+root:artica@198.244.567.150
+root:artica@176.31.39.122
+root:artica@35.181.766.216
+root:artica@176.331.44.102
+root:artica@90.83.655.41
