@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/SSH-Paramiko-red" alt="Paramiko SSH">
 </div>
 
-![Diagram](https://i.imgur.com/AhhI4eN.png)
+![Diagram](https://i.imgur.com/vqDVVRJ.png)
 
 <h2>✨ Key Features</h2>
 
